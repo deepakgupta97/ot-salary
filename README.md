@@ -38,3 +38,4 @@ database.password=password
 ```
 
 ###
+Commit based GitOps
