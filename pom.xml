@@ -10,7 +10,7 @@
   </parent>
   <groupId>com.opstree.microservice</groupId>
   <artifactId>salary</artifactId>
-  <version>13-2024-07-30-165329</version>
+  <version>14-2024-07-30-165752</version>
   <name>salary</name>
   <description>Salary Microservice</description>
   <dependencies>
