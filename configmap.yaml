@@ -1,0 +1,25 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: myconfigmap-1
+data:
+  username: k8s-admin
+  access_level: "1"
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: myconfigmap-2
+data:
+  username: k8s-admin
+  access_level: "1"
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: myconfigmap-3
+data:
+  username: k8s-admin
+  access_level: "1"
+  name: "deepak"
+  age: "24"
